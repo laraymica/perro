@@ -1,0 +1,47 @@
+h1{color: rgb(95, 16, 221);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+.c {
+
+color: magenta;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+
+.m{
+
+color: rgb(153, 0, 255);
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+
+.a{
+
+color: darkblue;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+
+.v{
+
+color: crimson;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+table,td{
+border: collapse;collapse;
+border:1px solid black,
+background-color:aqua
+
+}
+
+table,{
+    border: collapse;collapse;
+    border:1px solid black,
+    background-color:aqua
+
+td{
+    
+}
